@@ -107,7 +107,7 @@ function loadQuiz() {
     d_text.innerText = currentQuizData.d;
 }
 
-
+console.log(loadQuiz);
 submitBtn.addEventListener("click", () => {
     currentQuiz++;
     if (currentQuiz < quizData.length) {
