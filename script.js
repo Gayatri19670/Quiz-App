@@ -24,7 +24,7 @@ const quizData = [{
         c: '<title>',
         d: '<body>',
         correct: 'b'
-    },
+    }, 
     {
 
         question: 'Which tag inserts a line horizontally on your web page ?',
