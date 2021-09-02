@@ -1,7 +1,6 @@
 console.log('Quiz-App');
 
 
-
 const quizData = [{
         question: 'A webpage displays a picture. What tag was used to display that picture ?',
         a: 'picture',
