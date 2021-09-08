@@ -1,6 +1,9 @@
 console.log('Quiz-App');
 
 
+
+
+
 const quizData = [{
         question: 'A webpage displays a picture. What tag was used to display that picture ?',
         a: 'picture',
@@ -63,7 +66,7 @@ const quizData = [{
         question: 'tag makes the enclosed text bold. What is other tag to make text bold ? ',
         a: '<strong>',
         b: '<dar>',
-        c: '<black>',
+        c: '<black>',   
         d: '<emp>',
         correct: 'a'
     },
